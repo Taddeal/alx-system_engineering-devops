@@ -1,5 +1,6 @@
 #!/bin/bash
 grep -c "bin" /etc/passwd
+<<<<<<< HEAD
 #!/bin/bash
 grep -c "bin" /etc/passwd
 #!/bin/bash
@@ -7,3 +8,5 @@ grep -c "bin" /etc/passwd
 #!/bin/bash
 grep -c "bin" /etc/passwd
 #!/bin/bash
+=======
+>>>>>>> e95f3107c3a131841ff23a61e4a516d6dde9a5b9
